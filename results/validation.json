@@ -1,0 +1,21 @@
+{
+  "raster_solutions_verified": 17,
+  "optimizations_verified": 79,
+  "solver_status": "all Optimal",
+  "maximum_mip_gap": 0.0,
+  "main_species_connected_components": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "seed_sequence": [
+    20260925,
+    20260934
+  ],
+  "all_checks_passed": true
+}

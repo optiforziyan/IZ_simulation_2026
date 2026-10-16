@@ -1,0 +1,7 @@
+,area,area,area,species_targets_met,species_targets_met,species_targets_met,species_present,species_present,species_present,population_targets_met,population_targets_met,population_targets_met,Q_sum,Q_sum,Q_sum
+,min,mean,max,min,mean,max,min,mean,max,min,mean,max,min,mean,max
+scenario,,,,,,,,,,,,,,,
+ag,104,105.5,110,4,4.8,5,6,6.5,7,10,11.3,13,80.8200544265424,84.0726365036494,89.7383896467537
+b,104,105.5,110,8,8.0,8,8,8.0,8,13,15.1,16,73.1441103423355,78.27670894821124,83.1851753527281
+h0,104,105.5,110,8,8.0,8,8,8.0,8,12,13.9,17,74.3310740212354,79.70051171188108,86.2091687300558
+h1,114,115.6,121,8,8.0,8,8,8.0,8,12,14.3,17,82.4056453931002,87.94117327427645,95.321041520606

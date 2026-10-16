@@ -1,0 +1,5 @@
+feature,landscape_total,target_amount,held_amount,target_met
+TD,1093.0,218.60000000000002,241.0,True
+PD,3251.0,650.2,659.0,True
+FD,1229.0,245.8,249.0,True
+GD_proxy,13.864386230008677,2.7728772460017357,3.388167832046747,True
